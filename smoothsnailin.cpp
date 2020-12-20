@@ -27,6 +27,12 @@ switch(choice1) {
 	case 'e':
 	cout << "You approach the snail hide where the male snails fondle their mates to flex on you. \n" << "This is too much for you. You decide to take your life.\n Game over.";
 	break;
+	case 's':
+	cout << "my friend you are closer to god/n";
+	break;
+	case 'w':
+	cout << "love to the east, love to the west. love at home ,, is the best./n"
+	break;
 	default:
 	cout << "Try again ;0 \n"; 
 	return 0;
