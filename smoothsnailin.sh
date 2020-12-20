@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ~/Documents
+cd ~/Documents/GitHub/smooth-snailin
 g++ smoothsnailin.cpp -o snail
 reset
 ./snail

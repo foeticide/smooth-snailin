@@ -31,7 +31,7 @@ switch(choice1) {
 	cout << "my friend you are closer to god/n";
 	break;
 	case 'w':
-	cout << "love to the east, love to the west. love at home ,, is the best./n"
+	cout << "love to the east, love to the west. love at home ,, is the best./n";
 	break;
 	default:
 	cout << "Try again ;0 \n"; 
